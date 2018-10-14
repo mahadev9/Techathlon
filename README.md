@@ -20,7 +20,7 @@ This approach can be improved by using the flight02_imu and flight03_imu, which 
 
 
 Apart from this , we used computer vision techniques to identify the road and the part of the road which needs repair.
-We used thresholding and canny edge dectection algorithm. This was done without any of the LIDAR data.
+We used thresholding and canny edge dectection algorithm.
 
 
 
