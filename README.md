@@ -24,11 +24,19 @@ We used thresholding and canny edge dectection algorithm. This was done without 
 
 
 
+##The below image is the path travelled by the drone on flight02
+
+![Image description](https://github.com/mahadev9/Techathlon/blob/master/all_locations_flight02.png)
+
+##The below image is the points where our approach predicted that the road is uneven.
 
 ![Image description](https://github.com/mahadev9/Techathlon/blob/master/output_flight02/potholes_detect_flight02.png)
 
+##The below image is the path travelled by the drone on flight03
+
 ![Image description](https://github.com/mahadev9/Techathlon/blob/master/output_flight03/potholes_detect_flight03.png)
 
-![Image description](https://github.com/mahadev9/Techathlon/blob/master/all_locations_flight02.png)
+
+##The below image is the points where our approach predicted that the road is uneven.
 
 ![Image description](https://github.com/mahadev9/Techathlon/blob/master/all_locations_flight03.png)
