@@ -25,5 +25,4 @@ We used thresholding and canny edge dectection algorithm. This was done without 
 
 
 
-        Techathlon/output_flight02/potholes_detect_flight02.png
-      
+https://github.com/mahadev9/Techathlon/blob/master/output_flight02/potholes_detect_flight02.png
