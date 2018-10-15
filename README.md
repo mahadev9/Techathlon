@@ -1,5 +1,5 @@
 # Team - InterruptZero
-# Techathlon
+# POTHOLE DETECTION USING LIDAR-Techathlon
 
 Problem statement: Pothole detection using LIDAR values 
 
